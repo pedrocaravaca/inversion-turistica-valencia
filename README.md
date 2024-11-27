@@ -1,6 +1,6 @@
 # AirBnb Vacation Rental Market Analysis in Valencia
 
-![Project Image](ruta/a/tu/imagen.jpg)
+![Project Image]([ruta/a/tu/imagen](https://github.com/pedrocaravaca/inversion-turistica-valencia/blob/main/Datos/Images/portada.jpeg)
 
 ---
 
